@@ -15,8 +15,8 @@ export default defineConfig({
       injectRegister: 'auto',
       includeAssets: ['offline.html', 'icon.svg', 'favicon.ico'], // pastikan offline.html disertakan
       manifest: {
-        name: 'CertiaKita',
-        short_name: 'CertiaKita',
+        name: 'CeritaKita',
+        short_name: 'CeritaKita',
         start_url: '/',
         display: 'standalone',
         background_color: '#ffffff',
